@@ -1,0 +1,336 @@
+county_id;name
+1;Wrocław
+1;Legnica
+1;Jelenia Góra
+1;Trzebnica
+1;Świdnica
+1;Oleśnica
+1;Kłodzko
+1;Wałbrzych
+1;Oława
+1;Lubin
+1;Środa Śląska
+1;Bolesławiec
+1;Dzierżoniów
+1;Zgorzelec
+1;Głogów
+1;Polkowice
+1;Wołów
+1;Ząbkowice Śląskie
+1;Strzelin
+1;Jawor
+1;Lubań
+1;Milicz
+1;Lwówek Śląski
+1;Kamienna Góra
+1;Złotoryja
+1;Góra
+2;Bydgoszcz
+2;Toruń
+2;Włocławek
+2;Inowrocław
+2;Grudziądz
+2;Świecie
+2;Nakło nad Notecią
+2;Brodnica
+2;Żnin
+2;Aleksandrów Kujawski
+2;Chełmno
+2;Lipno
+2;Tuchola
+2;Golub-Dobrzyń
+2;Sępólno Krajeńskie
+2;Rypin
+2;Mogilno
+2;Wąbrzeźno
+2;Radziejów
+3;Lublin
+3;Zamość
+3;Biała Podlaska
+3;Puławy
+3;Chełm
+3;Biłgoraj
+3;Lubartów
+3;Świdnik
+3;Łuków
+3;Kraśnik
+3;Tomaszów Lubelski
+3;Łęczna
+3;Krasnystaw
+3;Ryki
+3;Hrubieszów
+3;Opole Lubelskie
+3;Radzyń Podlaski
+3;Janów Lubelski
+3;Parczew
+3;Włodawa
+4;Zielona Góra
+4;Gorzów Wielkopolski
+4;Żary
+4;Nowa Sól
+4;Świebodzin
+4;Żagań
+4;Słubice
+4;Międzyrzecz
+4;Krosno Odrzańskie
+4;Sulęcin
+4;Strzelce Krajeńskie
+4;Wschowa
+5;Łódź
+5;Zgierz
+5;Pabianice
+5;Piotrków Trybunalski
+5;Bełchatów
+5;Sieradz
+5;Radomsko
+5;Tomaszów Mazowiecki
+5;Skierniewice
+5;Kutno
+5;Zduńska Wola
+5;Wieluń
+5;Łowicz
+5;Łask
+5;Opoczno
+5;Wieruszów
+5;Brzeziny
+5;Rawa Mazowiecka
+5;Poddębice
+5;Pajęczno
+5;Łęczyca
+6;Kraków
+6;Wieliczka
+6;Tarnów
+6;Nowy Sącz
+6;Wadowice
+6;Nowy Targ
+6;Myślenice
+6;Oświęcim
+6;Chrzanów
+6;Limanowa
+6;Bochnia
+6;Olkusz
+6;Brzesko
+6;Sucha Beskidzka
+6;Zakopane
+6;Gorlice
+6;Miechów
+6;Proszowice
+6;Dąbrowa Tarnowska
+7;Warszawa
+7;Piaseczno
+7;Pruszków
+7;Ożarów Mazowiecki
+7;Wołomin
+7;Legionowo
+7;Grodzisk Mazowiecki
+7;Radom
+7;Mińsk Mazowiecki
+7;Otwock
+7;Płock
+7;Siedlce
+7;Żyrardów
+7;Nowy Dwór Mazowiecki
+7;Grójec
+7;Sochaczew
+7;Ostrołęka
+7;Wyszków
+7;Garwolin
+7;Płońsk
+7;Ciechanów
+7;Pułtusk
+7;Kozienice
+7;Węgrów
+7;Ostrów Mazowiecka
+7;Mława
+7;Sierpc
+7;Gostynin
+7;Przasnysz
+7;Maków Mazowiecki
+7;Białobrzegi
+7;Sokołów Podlaski
+7;Szydłowiec
+7;Przysucha
+7;Zwoleń
+7;Lipsko
+7;Żuromin
+7;Łosice
+8;Opole
+8;Nysa
+8;Brzeg
+8;Kędzierzyn-Koźle
+8;Krapkowice
+8;Strzelce Opolskie
+8;Kluczbork
+8;Olesno
+8;Namysłów
+8;Prudnik
+8;Głubczyce
+9;Rzeszów
+9;Krosno
+9;Dębica
+9;Mielec
+9;Łańcut
+9;Jarosław
+9;Przemyśl
+9;Stalowa Wola
+9;Jasło
+9;Tarnobrzeg
+9;Sanok
+9;Przeworsk
+9;Kolbuszowa
+9;Ropczyce
+9;Strzyżów
+9;Leżajsk
+9;Nisko
+9;Brzozów
+9;Lesko
+9;Lubaczów
+9;Ustrzyki Dolne
+10;Białystok
+10;Łomża
+10;Suwałki
+10;Bielsk Podlaski
+10;Augustów
+10;Hajnówka
+10;Sokółka
+10;Wysokie Mazowieckie
+10;Zambrów
+10;Grajewo
+10;Siemiatycze
+10;Mońki
+10;Kolno
+10;Sejny
+11;Gdańsk
+11;Gdynia
+11;Wejherowo
+11;Pruszcz Gdański
+11;Kartuzy
+11;Słupsk
+11;Puck
+11;Starogard Gdański
+11;Tczew
+11;Chojnice
+11;Kościerzyna
+11;Lębork
+11;Kwidzyn
+11;Bytów
+11;Malbork
+11;Nowy Dwór Gdański
+11;Sopot
+11;Człuchów
+11;Sztum
+12;Katowice
+12;Bielsko-Biała
+12;Częstochowa
+12;Gliwice
+12;Rybnik
+12;Cieszyn
+12;Żywiec
+12;Sosnowiec
+12;Będzin
+12;Tarnowskie Góry
+12;Mikołów
+12;Tychy
+12;Zabrze
+12;Dąbrowa Górnicza
+12;Pszczyna
+12;Wodzisław Śląski
+12;Bytom
+12;Ruda Śląska
+12;Jaworzno
+12;Zawiercie
+12;Żory
+12;Racibórz
+12;Mysłowice
+12;Lubliniec
+12;Chorzów
+12;Bieruń
+12;Myszków
+12;Jastrzębie-Zdrój
+12;Kłobuck
+12;Siemianowice Śląskie
+12;Piekary Śląskie
+12;Świętochłowice
+13;Kielce
+13;Ostrowiec Świętokrzyski
+13;Jędrzejów
+13;Starachowice
+13;Busko-Zdrój
+13;Sandomierz
+13;Staszów
+13;Końskie
+13;Włoszczowa
+13;Skarżysko-Kamienna
+13;Pińczów
+13;Opatów
+13;Kazimierza Wielka
+14;Olsztyn
+14;Elbląg
+14;Ostróda
+14;Ełk
+14;Iława
+14;Szczytno
+14;Giżycko
+14;Mrągowo
+14;Pisz
+14;Kętrzyn
+14;Działdowo
+14;Bartoszyce
+14;Lidzbark Warmiński
+14;Braniewo
+14;Nidzica
+14;Nowe Miasto Lubawskie
+14;Olecko
+14;Węgorzewo
+14;Gołdap
+15;Poznań
+15;Konin
+15;Kalisz
+15;Ostrów Wielkopolski
+15;Gniezno
+15;Leszno
+15;Piła
+15;Szamotuły
+15;Września
+15;Wągrowiec
+15;Słupca
+15;Oborniki
+15;Turek
+15;Kościan
+15;Nowy Tomyśl
+15;Jarocin
+15;Śrem
+15;Koło
+15;Środa Wielkopolska
+15;Kępno
+15;Krotoszyn
+15;Ostrzeszów
+15;Gostyń
+15;Czarnków
+15;Wolsztyn
+15;Złotów
+15;Pleszew
+15;Rawicz
+15;Grodzisk Wielkopolski
+15;Chodzież
+15;Międzychód
+16;Szczecin
+16;Koszalin
+16;Stargard
+16;Kołobrzeg
+16;Police
+16;Goleniów
+16;Gryfice
+16;Gryfino
+16;Kamień Pomorski
+16;Szczecinek
+16;Myślibórz
+16;Świnoujście
+16;Sławno
+16;Drawsko Pomorskie
+16;Pyrzyce
+16;Wałcz
+16;Świdwin
+16;Białogard
+16;Choszczno
+16;Łobez

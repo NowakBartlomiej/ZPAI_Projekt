@@ -1,0 +1,677 @@
+make_id;name
+1;124
+1;500
+1;595
+1;695
+1;Grande Punto
+2;33
+2;146
+2;147
+2;155
+2;156
+2;159
+2;164
+2;166
+2;Brera
+2;Crosswagon
+2;Giulietta
+2;GT
+2;GTV
+2;Mito
+2;Spider
+2;Sportwagon
+3;80
+3;90
+3;100
+3;200
+3;A1
+3;A2
+3;A3
+3;A4
+3;A4 Allroad
+3;A5
+3;A6
+3;A6 Allroad
+3;A7
+3;A8
+3;Cabriolet
+3;Coupe
+3;Q5
+3;Q7
+3;Quattro
+3;R8
+3;Rs4
+3;Rs6
+3;S2
+3;S3
+3;S4
+3;S5
+3;S6
+3;S7
+3;S8
+3;TT
+3;V8
+4;M1
+4;M5
+4;M6
+4;Seria 1
+4;Seria 3
+4;Seria 5
+4;Seria 6
+4;Seria 7
+4;X1
+4;X3
+4;X5
+4;X5m
+4;X6
+4;X6m
+4;Z3
+4;Z4
+4;Seria 2
+4;Seria 4
+5;Alero
+5;Avalanche
+5;Aveo
+5;Blazer
+5;Camaro
+5;Captiva
+5;Cavalier
+5;Corvette
+5;Cruze
+5;Epica
+5;Equinox
+5;Evanda
+5;Express
+5;HHR
+5;Kalos
+5;Lacetti
+5;Lumina
+5;Malibu
+5;Matiz
+5;Nubira
+5;Orlando
+5;Rezzo
+5;Silverado
+5;Spark
+5;Suburban
+5;Tahoe
+5;Trans Sport
+5;Venture
+6;300C
+6;Aspen
+6;Caravan
+6;Concorde
+6;Crossfire
+6;Daytona
+6;Grand Voyager
+6;GS
+6;Le Baron
+6;Neon
+6;New Yorker
+6;Pacifica
+6;PT Cruiser
+6;Saratoga
+6;Sebring
+6;Stratus
+6;Town & Country
+6;Vision
+6;Voyager
+7;AX
+7;Berlingo
+7;BX
+7;C-Crosser
+7;C1
+7;C2
+7;C3
+7;C3 Picasso
+7;C3 Pluriel
+7;C4
+7;C4 Picasso
+7;C5
+7;C6
+7;C8
+7;CX
+7;DS
+7;Evasion
+7;GSA
+7;Nemo
+7;Saxo
+7;Xantia
+7;XM
+7;Xsara
+7;Xsara Picasso
+7;ZX
+8;Formentor
+8;Born
+8;Ateca
+8;Leon
+9;Duster
+9;Logan
+9;Sandero
+9;Sandero Stepway
+9;Lodgy
+10;Espero
+10;Kalos
+10;Korando
+10;Lanos
+10;Leganza
+10;Matiz
+10;Musso
+10;Nexia
+10;Nubira
+10;Rezzo
+10;Tacuma
+10;Tico
+11;DS 3
+11;DS 3 Crossback
+11;DS 4
+11;DS 4 Crossback
+11;DS 5
+11;DS 7 Crossback
+11;DS 9
+12;Aerostar
+12;B-MAX
+12;C-MAX
+12;Capri
+12;Contour
+12;Cougar
+12;Econoline
+12;Escape
+12;Escort
+12;Explorer
+12;F150
+12;F250
+12;F350
+12;Fiesta
+12;Focus
+12;Focus C-Max
+12;Fusion
+12;Galaxy
+12;Granada
+12;Gt
+12;KA
+12;Kuga
+12;Maverick
+12;Mondeo
+12;Mustang
+12;Orion
+12;Probe
+12;Puma
+12;Ranger
+12;S-Max
+12;Scorpio
+12;Sierra
+12;Streetka
+12;Taurus
+12;Tourneo
+12;Windstar
+13;125p
+13;126
+13;500
+13;600
+13;Albea
+13;Barchetta
+13;Brava
+13;Bravo
+13;Cinquecento
+13;Coupe
+13;Courier
+13;Croma
+13;Doblo
+13;Ducato
+13;Fiorino
+13;Freemont
+13;Grande Punto
+13;Idea
+13;Linea
+13;Marea
+13;Multipla
+13;Palio
+13;Panda
+13;Punto
+13;Punto Evo
+13;Qubo
+13;Scudo
+13;Sedici
+13;Seicento
+13;Siena
+13;Spider Europa
+13;Stilo
+13;Strada
+13;Tempra
+13;Tipo
+13;Ulysse
+13;Uno
+14;Accord
+14;City
+14;Civic
+14;Concerto
+14;CR-V
+14;CRX
+14;FR-V
+14;HR-V
+14;Insight
+14;Integra
+14;Jazz
+14;Legend
+14;Odyssey
+14;Prelude
+14;S 2000
+14;Shuttle
+14;Stream
+15;Accent
+15;Atos
+15;Coupe
+15;Elantra
+15;Galloper
+15;Getz
+15;H200
+15;I40
+15;Lantra
+15;Matrix
+15;Pony
+15;S-Coupe
+15;Santa Fe
+15;Santamo
+15;Sonata
+15;Sonica
+15;Terracan
+15;Trajet
+15;Tucson
+15;Veloster
+15;Veracruz
+15;XG
+15;i10
+15;i20
+15;i30
+15;ix20
+15;ix35
+15;ix55
+16;FX
+16;G
+16;Q50
+16;QX70
+17;S-type
+17;Xj
+17;Xf
+17;Xj6
+17;Xj8
+17;Xkr
+17;Daimler
+17;Xjr
+18;Cherokee
+18;Commander
+18;Grand Cherokee
+18;Liberty
+18;Wrangler
+19;Asia Rocsta
+19;Carens
+19;Carnival
+19;Ceed
+19;Cerato
+19;Clarus
+19;Joice
+19;Magentis
+19;Opirus
+19;Optima
+19;Picanto
+19;Pregio
+19;Pride
+19;Retona
+19;Rio
+19;Sephia
+19;Shuma
+19;Sorento
+19;Soul
+19;Sportage
+19;Venga
+20;Dedra
+20;Delta
+20;Kappa
+20;Lybra
+20;Musa
+20;Phedra
+20;Thema
+20;Thesis
+20;Ypsilon
+20;Zeta
+21;is220
+21;rx300
+21;es300
+21;gs300
+21;rx400
+21;is200
+21;is250
+21;gs450
+21;rx350
+22;224
+22;3200
+22;Biturbo
+22;Coupe
+22;Ghibi
+22;GranTurismo
+22;Grecale
+22;Levante
+22;MC20
+22;Quattroporte
+23;57
+23;62
+24;2
+24;3
+24;5
+24;6
+24;121
+24;323
+24;323F
+24;626
+24;929
+24;BT-50
+24;CX-5
+24;CX-7
+24;CX-9
+24;Demio
+24;Millenia
+24;MPV
+24;MX-3
+24;MX-5
+24;MX-6
+24;Premacy
+24;Protege
+24;RX-7
+24;RX-8
+24;Tribute
+24;Xedos
+25;A Klasa
+25;B Klasa
+25;C Klasa
+25;CL Klasa
+25;CLA
+25;CLK Klasa
+25;CLS Klasa
+25;Clc
+25;E Klasa
+25;G Klasa
+25;GL Klasa
+25;GLK Klasa
+25;ML Klasa
+25;R Klasa
+25;S Klasa
+25;SL Klasa
+25;SLK Klasa
+25;Vaneo
+25;Viano
+25;Vito
+25;W123
+25;W124
+26;Cooper
+26;One
+26;Cooper S
+27;3000 GT
+27;ASX
+27;Carisma
+27;Colt
+27;Eclipse
+27;Endeavor
+27;Galant
+27;Grandis
+27;L200
+27;L400
+27;Lancer
+27;Montero
+27;Outlander
+27;Pajero
+27;Pajero Pinin
+27;Sigma
+27;Space Gear
+27;Space Runner
+27;Space Star
+27;Space Wagon
+28;100 NX
+28;200 SX
+28;300 ZX
+28;350 Z
+28;370 Z
+28;Almera
+28;Almera Tino
+28;Altima
+28;Frontier
+28;GT-R
+28;Juke
+28;King Cab
+28;Maxima
+28;Micra
+28;Murano
+28;NV200
+28;Navara
+28;New Micra
+28;Note
+28;Pathfinder
+28;Patrol
+28;Pickup
+28;Pixo
+28;Prairie
+28;Primastar
+28;Primera
+28;Qashqai
+28;Quest
+28;Sentra
+28;Serena
+28;Skyline
+28;Sunny
+28;Terrano
+28;Tiida
+28;Trade
+28;X-Trail
+29;Agila
+29;Antara
+29;Arena
+29;Ascona
+29;Astra
+29;Calibra
+29;Campo
+29;Combo
+29;Corsa
+29;Frontera
+29;GT
+29;Insignia
+29;Kadett
+29;Manta
+29;Meriva
+29;Monterey
+29;Movano
+29;Omega
+29;Rekord
+29;Senator
+29;Signum
+29;Sintra
+29;Tigra
+29;Vectra
+29;Vivaro
+29;Zafira
+30;106
+30;107
+30;205
+30;206
+30;206 CC
+30;206 plus
+30;207
+30;207 CC
+30;208
+30;301
+30;306
+30;307
+30;307 CC
+30;307 SW
+30;308
+30;309
+30;404
+30;405
+30;406
+30;407
+30;508
+30;605
+30;607
+30;806
+30;807
+30;1007
+30;3008
+30;4007
+30;5008
+30;Expert
+30;Partner
+30;RCZ
+31;Cayenne
+31;911
+31;Cayenne S
+31;Panamera
+31;Boxster
+31;944
+32;Avantime
+32;Clio
+32;Coupe
+32;Espace
+32;Fluence
+32;Grand Espace
+32;Grand Scenic
+32;Kangoo
+32;Koleos
+32;Laguna
+32;Latitude
+32;Megane
+32;Modus
+32;Safrane
+32;Scenic
+32;Thalia
+32;Trafic
+32;Twingo
+33;9-3
+33;9-3X
+33;9-5
+33;9-7X
+33;99
+33;900
+33;9000
+34;Alhambra
+34;Altea
+34;Altea XL
+34;Arona
+34;Arosa
+34;Cordoba
+34;Exeo
+34;Ibiza
+34;Inca
+34;Leon
+34;Malaga
+34;Marbella
+34;Mii
+34;Terra
+34;Toledo
+35;Korando
+35;Kyron
+35;Rexton
+35;Tivoli
+35;XLV
+36;B9 Tribeca
+36;Forester
+36;Impreza
+36;Justy
+36;Legacy
+36;OUTBACK
+36;Tribeca
+37;Alto
+37;Baleno
+37;Grand Vitara
+37;Ignis
+37;Jimny
+37;Liana
+37;Samurai
+37;SJ
+37;Splash
+37;Swift
+37;SX4
+37;Vitara
+37;X-90
+38;Fabia
+38;Favorit
+38;Felicia
+38;Octavia
+38;Rapid
+38;Roomster
+38;Superb
+38;Yeti
+39;Auris
+39;Avalon
+39;Avensis
+39;Avensis Verso
+39;Aygo
+39;Camry
+39;Camry Solara
+39;Carina
+39;Celica
+39;Corolla
+39;Corolla Verso
+39;Dyna
+39;FJ
+39;Highlander
+39;Hilux
+39;iQ
+39;Land Cruiser
+39;Matrix
+39;MR2
+39;Paseo
+39;Picnic
+39;Previa
+39;Prius
+39;RAV-4
+39;Sienna
+39;Starlet
+39;Supra
+39;Tacoma
+39;Verso
+39;Yaris
+39;Yaris Verso
+40;Amarok
+40;Beetle
+40;Bora
+40;Buggy
+40;CC
+40;Caddy
+40;Caravelle
+40;Corrado
+40;Eos
+40;Fox
+40;Garbus
+40;Golf
+40;Golf Plus
+40;Jetta
+40;Lupo
+40;Multivan
+40;New Beetle
+40;Passat
+40;Passat CC
+40;Phaeton
+40;Polo
+40;Scirocco
+40;Sharan
+40;Tiguan
+40;Touareg
+40;Touran
+40;Transporter
+40;Up!
+41;C30
+41;C70
+41;Polar
+41;S40
+41;S60
+41;S70
+41;S80
+41;S90
+41;V40
+41;V50
+41;V60
+41;V70
+41;V90
+41;XC 40
+41;XC 60
+41;XC 70
+41;XC 90

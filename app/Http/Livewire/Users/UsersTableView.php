@@ -1,0 +1,81 @@
+<?php
+
+namespace App\Http\Livewire\Users;
+
+use App\Models\User;
+use LaravelViews\Facades\Header;
+use LaravelViews\Views\TableView;
+use App\Http\Livewire\Users\Filters\UsersRoleFilter;
+use App\Http\Livewire\Users\Filters\EmailVerifiedFilter;
+
+use App\Http\Livewire\Users\Actions\AssigAdminRoleAction;
+use App\Http\Livewire\Users\Actions\AssignAdminRoleAction;
+use App\Http\Livewire\Users\Actions\RemoveAdminRoleAction;
+use App\Http\Livewire\Users\Actions\AssignWorkerRoleAction;
+use App\Http\Livewire\Users\Actions\RemoveWorkerRoleAction;
+use WireUi\Traits\Actions;
+
+class UsersTableView extends TableView
+{
+    use Actions;
+    /**
+     * Sets a model class to get the initial data
+     */
+    protected $model = User::class;
+
+    public $searchBy = [
+        'name',
+        'email',
+        'roles.name',
+        'created_at'
+    ];
+
+    protected $paginate = 5;
+
+    /**
+     * Sets the headers of the table as you want to be displayed
+     *
+     * @return array<string> Array of headers
+     */
+    public function headers(): array
+    {
+        return [
+            // TODO zrobić tłumaczenie FILM 4- 21:01
+            Header::title('Name')->sortBy('name'), 
+            Header::title('Email')->sortBy('email'), 
+            'Role',
+            Header::title('Created at')->sortBy('created_at')
+        ]; 
+    }
+
+    /**
+     * Sets the data to every cell of a single row
+     *
+     * @param $model Current model for each row
+     */
+    public function row($model): array
+    {
+        return [
+            $model->name,
+            $model->email,
+            $model->roles->implode('name', ', '),
+            $model->created_at,
+        ];
+    }
+
+    protected function filters() {
+        return [
+            new UsersRoleFilter,
+            new EmailVerifiedFilter
+        ];
+    }
+
+    protected function actionsByRow() {
+        return [
+            new AssignAdminRoleAction,
+            new AssignWorkerRoleAction,
+            new RemoveAdminRoleAction,
+            new RemoveWorkerRoleAction,
+        ];
+    }
+}

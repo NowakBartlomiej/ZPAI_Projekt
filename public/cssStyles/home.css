@@ -1,0 +1,204 @@
+.home {
+    min-height: 88vh;
+    display: flex;
+    align-items: center;
+    background: linear-gradient(
+        rgba(0, 0, 0, 0.7), 
+        rgba(0, 0, 0, 0.7)
+      ), url(../images/cars-bg.jpg) no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.home .content {
+    max-width: 80rem;
+}
+
+.home .content h3{
+    font-size: 6rem;
+    text-transform: uppercase;
+    color: #fff;
+}
+
+.home .content p{
+    font-size: 2rem;
+    font-weight: lighter;
+    line-height: 1.8;
+    padding: 1rem 0;
+    color: #eee;
+}
+
+/* menu section starts */
+.menu .box-container {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(50rem, 1fr));
+    gap: 2rem;   
+}
+
+.menu .box-container .box {
+    background: var(--bgCard);
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    border-radius: 1rem;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    overflow: hidden;
+    border-radius: 1rem;
+    gap: .4rem;
+    cursor: pointer;
+}
+
+.menu .box-container .box:hover {
+    transform: scale(1.009);
+}
+
+.menu .box-container .box .img {
+    width: 100%;
+}
+
+.menu .box-container .box .img img {
+    width: 100%;
+    height: 300px;
+    object-fit: cover;
+}
+
+.menu .box-container .box .title {
+    font-size: 2.7rem;
+    padding: 0 1rem;
+    font-weight: 600;
+}
+
+.menu .box-container .box .car-info {
+    display: flex;
+    gap: 1rem;
+    padding: 0 1rem;
+    color: rgb(32, 32, 32);
+    font-size: 2rem;
+    font-weight: 400;
+}
+
+.menu .box-container .box .car-info .text::after {
+    content: '•';
+    margin-left: 1rem;
+}
+
+.menu .box-container .box .car-info .text:last-child::after {
+    content: '';
+}
+
+.menu .box-container .box .car-price {
+    padding: 0 1rem;
+    color: #c82814;
+    font-size: 3.5rem;
+    text-transform: none;
+}
+
+
+/* menu section ends */
+
+
+/* about section starts */
+.about .row {
+    display: flex;
+    align-items: center;
+    background: var(--bgCard);
+    flex-wrap: wrap;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    overflow: hidden;
+    border-radius: 1rem;
+}
+
+.about .row:hover {
+    transform: scale(1.009);
+}
+
+.about .row .image {
+    flex: 1 1 45rem;
+    filter: brightness(60%);
+}
+
+.about .row .image img{
+    width: 100%;
+}
+
+.about .row .content {
+    flex: 1 1 45rem;
+    padding: 2rem;
+}
+
+.about .row .content h3 {
+    font-size: 3rem;
+    color: var(--main-color);
+}
+
+.about .row .content p {
+    font-size: 1.6rem;
+    color: var(--black);
+    padding: 1rem 0;
+    line-height: 1.8;
+}
+/* about section ends */
+
+/* contact section starts */
+
+.contact .row {
+    display: flex;
+    background:var(--bgCard);
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    overflow: hidden;
+    border-radius: 1rem;
+    flex-wrap: wrap;
+    gap:1rem;
+}
+
+.contact .row:hover {
+    transform: scale(1.009);
+}
+
+.contact .row .map {
+    flex:1 1 45rem;
+    width: 100%;
+    object-fit: cover;
+}
+
+.contact .row form {
+    flex:1 1 45rem;
+    padding:5rem 2rem;
+    text-align: center;
+}
+
+.contact .row form h3 {
+    text-transform: uppercase;
+    font-size: 3.5rem;
+    color: var(--main-color);
+}
+
+.contact .row form .inputBox {
+    display: flex;
+    align-items: center;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+    background:var(--bg);
+    border:var(--border);
+}
+
+.contact .row form .inputBox span {
+    color: var(--black);
+    font-size: 2rem;
+    padding-left: 2rem;
+}
+
+.contact .row form .inputBox input {
+    width: 100%;
+    padding:2rem;
+    font-size: 1.7rem;
+    color:var(--black);
+    text-transform: none;
+    background:none;
+}
+
+.btn-home {
+    margin-top: 2rem;
+    font-size: 4rem;
+}
+/* contact section ends */

@@ -1,0 +1,163 @@
+.main {
+    padding: 0 7%;
+    padding-top: 12rem;
+}
+
+.filter-btn {
+    width: max-content;
+    padding: 1rem 2rem;
+}
+
+.wrapper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-bottom: 1rem;
+}
+
+.main .filter-box {
+    width: max-content;
+    background: var(--bgCard);
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    padding: 2.2rem 2rem;
+    border-radius: 1rem;
+}
+
+.main .filter-box .filter-form {
+    display: flex;
+    justify-content: flex-start;
+    flex-direction: column;
+    gap: 2rem;
+}
+
+.main .filter-box .filter-form .select-boxes {
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap: 2rem;
+}
+
+.main .filter-box .filter-form .select-boxes select {
+    font-size: 1.9rem;
+    padding: .5rem .7rem;
+    border-radius: 1rem;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    font-weight: 400;
+    width: 200px
+}
+
+.main .filter-box .filter-form .range-inputs {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+    padding: .5rem .7rem;
+}
+
+.main .filter-box .filter-form .range-inputs .range-input {
+    display: flex;
+    justify-content: flex-start;
+    flex-direction: column;
+    gap: 1rem;
+}
+
+.main .filter-box .filter-form .range-inputs .range-input h3 {
+    font-size: 2.5rem;
+    font-weight: 600;
+}
+
+.main .filter-box .filter-form .range-inputs .inputs {
+    display: flex;
+    gap: 2rem;
+    align-items: center;
+}
+
+.main .filter-box .filter-form .range-inputs .inputs h4 {
+    font-size: 1.5rem;
+    color: rgb(51, 51, 51);
+}
+
+.main .filter-box .filter-form .range-inputs .inputs input {
+    color: var(--black);
+    padding: .7rem 1rem;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    border-radius: .4rem;
+    font-size: 1.5rem;
+    width: 15rem;
+
+}
+
+/* menu section starts */
+.menu .box-container {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(50rem, 1fr));
+    gap: 2rem;  
+    width: 100%;
+}
+
+.menu .box-container .box {
+    background: var(--bgCard);
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    border-radius: 1rem;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    overflow: hidden;
+    border-radius: 1rem;
+    gap: .4rem;
+    cursor: pointer;
+}
+
+.menu .box-container .box:hover {
+    transform: scale(1.009);
+}
+
+.menu .box-container .box .img {
+    width: 100%;
+}
+
+.menu .box-container .box .img img {
+    width: 100%;
+    height: 300px;
+    object-fit: cover;
+}
+
+.menu .box-container .box .title {
+    font-size: 2.7rem;
+    padding: 0 1rem;
+    font-weight: 600;
+}
+
+.menu .box-container .box .car-info {
+    display: flex;
+    gap: 1rem;
+    padding: 0 1rem;
+    color: rgb(32, 32, 32);
+    font-size: 2rem;
+    font-weight: 400;
+}
+
+.menu .box-container .box .car-info .text::after {
+    content: '•';
+    margin-left: 1rem;
+}
+
+.menu .box-container .box .car-info .text:last-child::after {
+    content: '';
+}
+
+.menu .box-container .box .car-price {
+    padding: 0 1rem;
+    color: #c82814;
+    font-size: 3.5rem;
+    text-transform: none;
+}
+
+.unit {
+    text-transform: none;
+}
+/* menu section ends */
+
+
+
+

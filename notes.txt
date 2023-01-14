@@ -1,0 +1,14 @@
+Sprawdzic filtr worker, user
+Zrobic L08
+
+
+
+
+
+
+
+W carsTable sortBy Model name
+
+W advertGrid nie dziala wyszukiwanie dla np marki
+
+Filtr wyszukiwania
